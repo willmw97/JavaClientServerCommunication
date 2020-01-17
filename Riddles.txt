@@ -1,0 +1,51 @@
+<Riddle>Why can't you use "beef stew" as a password?
+<Answer>It's not stroganoff.
+<Riddle>What happened after the cheese factory in France exploded?
+<Answer>Da Brie was everywhere!
+<Riddle>Why can't a bicycle stand alone?
+<Answer>Because it is two-tired.
+<Riddle>What happens when a clock gets hungry?
+<Answer>It goes back four seconds.
+<Riddle>When is the only time bakers trade recipes?
+<Answer>On a knead the doe basis.
+<Riddle>What happens when you jump off a particular Parisian bridge?
+<Answer>You are in Seine.
+<Riddle>What weighs more? A pound of feathers or a pound of stones?
+<Answer>The same. They both weigh a pound!
+<Riddle>I have three feet but can't walk; I tell you things but can't talk; Sometimes I bend but I'm mostly straight. I'm like a scale but can't tell your weight. What am I?
+<Answer>A yardstick.
+<Riddle>If you put roast in a roaster, what do you put in toaster?
+<Answer>Bread.
+<Riddle>One day, a thirty story building was on fire. A man jumped out a window and nothing happened to him. Nothing was under him. How is this possible?
+<Answer>He was on the first floor.
+<Riddle>Why don't zombies eat popcorn with their fingers?
+<Answer>They prefer to eat their fingers separately.
+<Riddle>What kind of goose fights with snakes?
+<Answer>A mongoose.
+<Riddle>What animal would you get crossing a duck, a beaver, and an otter?
+<Answer>A platypus.
+<Riddle>When young, I am sweet in the sun. When middle-aged, I make you gay. When old, I am valued more than ever. What am I?
+<Answer>Wine
+<Riddle>Did you hear about the soldier who bought a camouflage sleeping bag?
+<Answer>He can't find it.
+<Riddle>How do you make an orange giggle?
+<Answer>Tickle its navel.
+<Riddle>Why was the dog kicked out of the flea circus?
+<Answer>Because he stole the show!
+<Riddle>David's father has three sons : Snap, Crackle and ___ ?
+<Answer>David.
+<Riddle>A doctor and a bus driver are both in love with a woman named Sarah. The bus driver had to go on a long bus trip that would last a week. Before he left, he gave Sarah seven apples. Why?
+<Answer>An apple a day keeps the doctor away!
+<Riddle>What belongs to you, but other people use it more than you?
+<Answer>Your name.
+<Riddle>You live in a one-storey house made entirely of redwood. What color are the stairs?
+<Answer>What stairs? You live in a one-storey house.
+<Riddle>Re-arrange the letters, O O U S W T D N E J R, to spell just one word. What is it?
+<Answer>'Just one word'.
+<Riddle>Mr. and Mrs. Mustard have six daughters and each daughter has one brother. How many people are in the Mustard family?
+<Answer>Nine.  Six daughters, two parents, and one son.
+<Riddle>What is black when you buy it, red while you use it, and gray when you are finished with it?
+<Answer>Charcoal.
+<Riddle>A man rode his horse out of town on Sunday, stayed an entire night at a hotel, and then rode back to town on Sunday. How is this possible?
+<Answer>The horse was named Sunday!
+
